@@ -1,0 +1,10 @@
+name = "RefCountedArrays"
+uuid = "c95073a5-ee1d-4e4c-a252-f6473a4e0880"
+authors = ["Julian P Samaroo <jpsamaroo@jpsamaroo.me>"]
+version = "0.1.0"
+
+[deps]
+Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
+
+[compat]
+julia = "1.7"
